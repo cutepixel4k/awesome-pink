@@ -1,0 +1,23 @@
+{
+  "name": "awesome-pink",
+  "displayName": "Awesome Pink",
+  "description": "",
+  "license": "MIT",
+  "publisher": "cutepixel4k",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Awesome Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Awesome Pink-color-theme.json"
+      }
+    ]
+  }
+}
